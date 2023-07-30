@@ -24,6 +24,7 @@ public class ContactServiceImpl implements ContactService {
 		} else {
 			return "Contact already present";
 		}
+           //how is the sservice
 
 	}
 

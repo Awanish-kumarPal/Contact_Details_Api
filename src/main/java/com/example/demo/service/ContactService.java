@@ -12,5 +12,6 @@ public interface ContactService {
 	public Contact getContactById(Integer contactId);
 	public String updateContact(Contact contact);
 	public String deleteContact(Integer contactId);
+//how is the service  interface
 
 }

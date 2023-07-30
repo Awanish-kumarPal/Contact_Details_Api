@@ -9,5 +9,6 @@ public class MiniProject1ContactdetailApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MiniProject1ContactdetailApplication.class, args);
 	}
+//how is the java
 
 }

@@ -12,7 +12,7 @@
 	<artifactId>MiniProject-1-Contactdetail</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>MiniProject-1-Contactdetail</name>
-	<description>Mini Project of Contact</description>
+	<description>Mini Project of Contact Details</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
@@ -35,12 +35,10 @@
 		<dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
-			<scope>runtime</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
-			<optional>true</optional>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>

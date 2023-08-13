@@ -11,5 +11,6 @@ public class MiniProject1ContactdetailApplication {
 	}
 //how is the java
 //java is more fine
+//java is fine
 
 }

@@ -10,5 +10,6 @@ public class MiniProject1ContactdetailApplication {
 		SpringApplication.run(MiniProject1ContactdetailApplication.class, args);
 	}
 //how is the java
+//java is fine
 
 }
